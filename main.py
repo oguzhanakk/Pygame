@@ -5,8 +5,8 @@ import time
 from Pictures_info import *
 from Functions import *
 
-pygame.init(
-    pygame.font.init()
+pygame.init()
+pygame.font.init()
 
 # Main menu
 
