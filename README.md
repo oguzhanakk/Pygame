@@ -1,4 +1,4 @@
-# Pingpong_game
+# Pygame Projects
 This repository contains four Python projects developed using Pygame library:
 
 Golden Orbs Game: Collect golden orbs to earn money in this fun game.
